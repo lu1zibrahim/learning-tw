@@ -12,7 +12,8 @@ print(type(variable_name))
 CONSTANT_NAME = 10
 
 
-# Aritmetic Operators
+# Aritmetic Operators - Can do with the variables, but not with different types, str + int.
+#But Booleans can
 # Sum
 5 + 5
 
@@ -23,4 +24,13 @@ CONSTANT_NAME = 10
 5 * 5
 
 # Division
-5/5
+5 / 5
+
+#With Booleans
+print(variable_name + variable_boolean)
+
+# Logic and comparison Operatiors
+10 > 10 or 10 >= 10
+10 < 5 and 10 <= 25
+print(not(10 == 10 and 10 == "10"))
+10 != 10
