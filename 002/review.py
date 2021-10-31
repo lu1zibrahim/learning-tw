@@ -39,3 +39,6 @@ print(not(10 == 10 and 10 == "10"))
 # git add review.py
 # git commit -m "Commit Message", exit vm if forgot something is :wq
 # git push
+
+# Conditions structures
+
