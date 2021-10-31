@@ -7,3 +7,4 @@ class Cachorro:
 
     def latir(self):
         return "Au au"
+
