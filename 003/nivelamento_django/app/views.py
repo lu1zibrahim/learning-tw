@@ -15,5 +15,5 @@ def cadastrar_tarefa(request):
 
 
 def listar_tarefas(request):
-    tarefas = Tarefa.objects.all()
+    tarefas = Tarefa.objects.order_by("data").all()
     return render(request,'lista_tarefas.html',{'tarefas':tarefas})

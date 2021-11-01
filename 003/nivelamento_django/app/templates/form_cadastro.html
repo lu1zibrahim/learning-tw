@@ -1,18 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
 
+{% load crispy_forms_tags %}
+
+{% block conteudo %}
+
+<h1> Cadastro de Tarefas</h1>
+<hr>
 <form method = "post">
     {% csrf_token %}
-{{ form_tarefa.as_p}}
+{{ form_tarefa | crispy}}
 
-<input type="submit" value="Cadastrar">
+<input type="submit" value="Cadastrar"class ="btn btn-primary">
 
 </form>
 
-</body>
-</html>
+
+{% endblock conteudo %}
