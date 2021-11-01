@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="Update README">
-      <change afterPath="$PROJECT_DIR$/002/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/dono.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/gato.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/interface_animal.py" afterDir="false" />
+    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="End of review of Classes in Python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002/cachorro.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/cachorro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002/class_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/class_review.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635671478770</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="End of review of Classes in Python">
+      <created>1635691196508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635691196508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add the Class review" />
     <MESSAGE value="Update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README" />
+    <MESSAGE value="End of review of Classes in Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of review of Classes in Python" />
   </component>
 </project>
