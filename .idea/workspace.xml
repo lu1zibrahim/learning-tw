@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="Updating">
-      <change afterPath="$PROJECT_DIR$/003/nivelamento_django/app/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/nivelamento_django/app/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/nivelamento_django/app/templates/form_cadastro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/nivelamento_django/app/urls.py" afterDir="false" />
+    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="Form creation, apps and view conf.">
+      <change afterPath="$PROJECT_DIR$/003/nivelamento_django/app/templates/lista_tarefas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/app/templates/form_cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/app/templates/form_cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/app/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/003/nivelamento_django/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/nivelamento_django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/nivelamento_django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/nivelamento_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/nivelamento_django/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635773185318</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Form creation, apps and view conf.">
+      <created>1635785471629</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635785471629</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +189,7 @@
     <MESSAGE value="Create the schema and tables by the MySQL workbench Models." />
     <MESSAGE value="Create and study an enviroment with pip and venv." />
     <MESSAGE value="Django project and app creation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Django project and app creation." />
+    <MESSAGE value="Form creation, apps and view conf." />
+    <option name="LAST_COMMIT_MESSAGE" value="Form creation, apps and view conf." />
   </component>
 </project>

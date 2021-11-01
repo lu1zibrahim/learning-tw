@@ -7,7 +7,7 @@
 <body>
 
 <form method = "post">
-
+    {% csrf_token %}
 {{ form_tarefa.as_p}}
 
 <input type="submit" value="Cadastrar">
