@@ -1,9 +1,7 @@
 p{
     color:red;
 }
-div {
-    font-size:80px
-}
+
 
 #tw {
     color:blue;
@@ -32,15 +30,35 @@ strong{
 }
 
 .container {
-    display: flex;
+    display: grid;
     background-color: #0066ad;
     padding: 8px;
-    height: 200px;
-    justify-content: space-between;
-    align-items: center;
+    grid-template-columns: 80px 1fr;
+    grid-template-rows: 50px 200px 50px;
+    grid-template-areas:
+        "header header"
+        "aside main"
+        "footer footer";
+    gap: 20px;
 }
 
 .item {
     background-color: #a2cff0;
     border: 2px solid black;
+}
+
+.header {
+    grid-area: header;
+}
+
+.aside {
+    grid-area: aside;
+}
+
+.main {
+    grid-area: main;
+}
+
+.footer {
+    grid-area: footer;
 }
