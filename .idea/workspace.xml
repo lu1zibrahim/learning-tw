@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="End of the logic for the form.&#10;Including: cstf token">
-      <change afterPath="$PROJECT_DIR$/003/nivelamento_django/app/templates/base.html" afterDir="false" />
+    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="Added the Django Crispy Form.&#10;Some bootstrap and how to order by in views.&#10;How to implement the base.html to avoid repeat code&#10;ALWAYS REMEMBER DRY (Don't Repeat Youself)">
+      <change afterPath="$PROJECT_DIR$/004/HTML-CSS/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/app/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/app/templates/form_cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/app/templates/form_cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/app/templates/lista_tarefas.html" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/app/templates/lista_tarefas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/nivelamento_django/nivelamento_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/003/nivelamento_django/nivelamento_django/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luizi\Desktop\Treinaweb\MSDjango\004\HTML-CSS\img" />
       <recent name="C:\Users\luizi\Desktop\Treinaweb\MSDjango\003" />
     </key>
   </component>
@@ -173,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635795897190</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added the Django Crispy Form.&#10;Some bootstrap and how to order by in views.&#10;How to implement the base.html to avoid repeat code&#10;ALWAYS REMEMBER DRY (Don't Repeat Youself)">
+      <created>1635808401383</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635808401383</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +201,7 @@
     <MESSAGE value="Django project and app creation." />
     <MESSAGE value="Form creation, apps and view conf." />
     <MESSAGE value="End of the logic for the form.&#10;Including: cstf token" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of the logic for the form.&#10;Including: cstf token" />
+    <MESSAGE value="Added the Django Crispy Form.&#10;Some bootstrap and how to order by in views.&#10;How to implement the base.html to avoid repeat code&#10;ALWAYS REMEMBER DRY (Don't Repeat Youself)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Django Crispy Form.&#10;Some bootstrap and how to order by in views.&#10;How to implement the base.html to avoid repeat code&#10;ALWAYS REMEMBER DRY (Don't Repeat Youself)" />
   </component>
 </project>
