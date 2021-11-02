@@ -1,0 +1,29 @@
+p{
+    color:red;
+}
+div {
+    font-size:80px
+}
+
+#tw {
+    color:blue;
+}
+
+.class {
+    color:green;
+}
+
+.minha-div {
+    background-color:aquamarine
+}
+
+div > span {
+
+}
+
+div span {
+
+}
+
+
+

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="Added the Django Crispy Form.&#10;Some bootstrap and how to order by in views.&#10;How to implement the base.html to avoid repeat code&#10;ALWAYS REMEMBER DRY (Don't Repeat Youself)">
-      <change afterPath="$PROJECT_DIR$/004/HTML-CSS/index.html" afterDir="false" />
+    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="Basic Review of HTML and CSS">
+      <change afterPath="$PROJECT_DIR$/004/HTML-CSS/contato.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004/HTML-CSS/img/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004/HTML-CSS/styles/meu-estilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/HTML-CSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/004/HTML-CSS/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635808401383</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Basic Review of HTML and CSS">
+      <created>1635866063518</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635866063518</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +212,7 @@
     <MESSAGE value="Form creation, apps and view conf." />
     <MESSAGE value="End of the logic for the form.&#10;Including: cstf token" />
     <MESSAGE value="Added the Django Crispy Form.&#10;Some bootstrap and how to order by in views.&#10;How to implement the base.html to avoid repeat code&#10;ALWAYS REMEMBER DRY (Don't Repeat Youself)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the Django Crispy Form.&#10;Some bootstrap and how to order by in views.&#10;How to implement the base.html to avoid repeat code&#10;ALWAYS REMEMBER DRY (Don't Repeat Youself)" />
+    <MESSAGE value="Basic Review of HTML and CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Review of HTML and CSS" />
   </component>
 </project>
