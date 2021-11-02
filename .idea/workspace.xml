@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="Basic Review of HTML and CSS, Flex-box">
+    <list default="true" id="2bcb4db7-1181-4ce2-8aca-ccb8eebe5f5c" name="Changes" comment="End of the HTML and CSS basic review.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/004/HTML-CSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/004/HTML-CSS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/004/HTML-CSS/styles/meu-estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/004/HTML-CSS/styles/meu-estilo.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635877077018</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="End of the HTML and CSS basic review.">
+      <created>1635886445075</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1635886445075</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +233,7 @@
     <MESSAGE value="Basic Review of HTML and CSS" />
     <MESSAGE value="Basic Review of HTML and CSS, Selectors and its power" />
     <MESSAGE value="Basic Review of HTML and CSS, Flex-box" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Review of HTML and CSS, Flex-box" />
+    <MESSAGE value="End of the HTML and CSS basic review." />
+    <option name="LAST_COMMIT_MESSAGE" value="End of the HTML and CSS basic review." />
   </component>
 </project>
