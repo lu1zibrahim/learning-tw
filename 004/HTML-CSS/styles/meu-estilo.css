@@ -25,5 +25,22 @@ div span {
 
 }
 
+strong{
+    display: inline-block;
+    background-color: green;
+    width: calc(100% - 20px);
+}
 
+.container {
+    display: flex;
+    background-color: #0066ad;
+    padding: 8px;
+    height: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.item {
+    background-color: #a2cff0;
+    border: 2px solid black;
+}
